@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>Tesla</finalName>
 		
 		<plugins>
 			<plugin>
